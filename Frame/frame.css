@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+
+table,th,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+table{
+    height: 100vh;
+}
+td{
+    width: 33vw;
+}
+
+#coloumn_1{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}

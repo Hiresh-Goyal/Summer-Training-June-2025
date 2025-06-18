@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+}
+
+#time-table,th,td{
+    width: 1500px;
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+tr{
+    height: 25px;
+    width: 25px;
+}
+
+#bold{
+    font-weight: bold;    
+}
+
+#centre{
+    text-align: center;
+}
+
+#subject{
+    font-weight: bold;
+    text-decoration: underline solid black 2px;
+}
+
+#big{
+    font-size: larger;
+}
+
+img{
+    width: 166.66px;
+}
